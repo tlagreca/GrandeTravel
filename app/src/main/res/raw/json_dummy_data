@@ -1,0 +1,42 @@
+{
+  "packages": {
+    "package": [
+      {
+        "PackageTitle": "A trip for two to Sydney",
+        "PackageLocation": "Sydney, Australia",
+        "PackageDescription": "A Weekend get away for a couple or for two friends to the wonderous, and as some would say, the true capital of Australia.",
+        "PackagePrice": 2000
+      },
+      {
+        "PackageTitle": "Paradise Valley",
+        "PackageLocation": "Valparaiso, Chile",
+        "PackageDescription": "A beautiful and vibrant town on the beautiful Chilaen coast.",
+        "PackagePrice": 1500
+      },
+      {
+        "PackageTitle": "The silicon valley of Europe",
+        "PackageLocation": "Berlin, Germany",
+        "PackageDescription": "Dear Start-ups, keep calm and move to Berlin.",
+        "PackagePrice": 6000
+      },
+      {
+        "PackageTitle": "Glittering skyscrapers and flashing neon",
+        "PackageLocation": "Seoul, South Korea",
+        "PackageDescription": "Where modern skyscrapers, high-tech subways and pop culture meet buddhist temples, palaces and street markets.",
+        "PackagePrice": 9000
+      },
+      {
+        "PackageTitle": "Discover all that's possible",
+        "PackageLocation": "Dubai, United Arab Emirates",
+        "PackageDescription": "The capital of the United Arab Emirates known for luxury shopping, ultramodern architecture and a lively nightlife.",
+        "PackagePrice": 25000
+      },
+      {
+        "PackageTitle": "New York, New York!",
+        "PackageLocation": "New York City, USA",
+        "PackageDescription": "Possibly the most famous city in the world, needs no introduction",
+        "PackagePrice": 5000
+      }
+    ]
+  }
+}
